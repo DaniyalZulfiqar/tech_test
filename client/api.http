@@ -1,0 +1,29 @@
+GET http://localhost:3002/stats HTTP/1.1
+Content-Type: application/json
+
+### 
+
+GET http://localhost:3002/winnerStats HTTP/1.1
+Content-Type: application/json
+
+###
+
+POST http://localhost:3002/stats HTTP/1.1
+Content-Type: application/json
+
+{
+    "Winner": "Match Drawn",
+    "Board": "6 by 6",
+    "TimeStamp": "7/23/2024, 3:55:43 PM"
+}
+
+
+### 
+
+PUT http://localhost:3002/winnerStats/1 HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+
+{
+        "Player O": 10
+}

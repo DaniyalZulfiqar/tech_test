@@ -1,0 +1,98 @@
+{
+  "stats": [
+    {
+      "id": "1",
+      "Winner": "Player X",
+      "Board": "3 by 3",
+      "TimeStamp": "Monday, 10:00 pm"
+    },
+    {
+      "id": "2",
+      "Winner": "Player O",
+      "Board": "9 by 9",
+      "TimeStamp": "Monday, 12:00 pm"
+    },
+    {
+      "id": "98cc",
+      "Winner": "Match Drawn",
+      "Board": "5 by 5",
+      "TimeStamp": "7/23/2024, 5:14:43 PM"
+    },
+    {
+      "id": "ad3b",
+      "Winner": "Player O",
+      "Board": "3 by 3",
+      "TimeStamp": "7/23/2024, 5:22:41 PM"
+    },
+    {
+      "id": "dae3",
+      "Winner": "X",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 4:39:11 PM"
+    },
+    {
+      "id": "5d39",
+      "Winner": "O",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 4:39:52 PM"
+    },
+    {
+      "id": "f43d",
+      "Winner": "X",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 4:40:05 PM"
+    },
+    {
+      "id": "7f0d",
+      "Winner": "X",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 4:49:16 PM"
+    },
+    {
+      "id": "8f5d",
+      "Winner": "X",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 4:49:20 PM"
+    },
+    {
+      "id": "9edd",
+      "Winner": "Match Drawn",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 4:57:58 PM"
+    },
+    {
+      "id": "be51",
+      "Winner": "Match Drawn",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 4:58:40 PM"
+    },
+    {
+      "id": "c09e",
+      "Winner": "Match Drawn",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 6:05:52 PM"
+    },
+    {
+      "id": "a938",
+      "Winner": "X",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 6:06:03 PM"
+    },
+    {
+      "id": "3f94",
+      "Winner": "X",
+      "Board": "3 by 3",
+      "TimeStamp": "7/24/2024, 6:06:07 PM"
+    }
+  ],
+  "winnerStats": [
+    {
+      "winningCount": 9,
+      "id": "X"
+    },
+    {
+      "winningCount": 4,
+      "id": "O"
+    }
+  ]
+}
